@@ -10,7 +10,8 @@ function createWindow() {
     // Create the browser window.
     let win = new BrowserWindow({
         frame: false,
-       // x: 0,
+        fullScreen: true,
+        // x: 0,
         y: 0,
         width: 1920,
         height: 1080,
@@ -24,3 +25,4 @@ function createWindow() {
 }
 
 app.on('ready', createWindow)
+
