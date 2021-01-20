@@ -1,5 +1,5 @@
 # emerge-video
-video loop player 🖥
+video full loop player 🖥
 
 > 用于宣传视频需循环播放的场合，视频比例需和屏幕分辨率一致
 
