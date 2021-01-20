@@ -6,6 +6,7 @@ video loop player 🖥
 ## 依赖
 * [http-server](https://www.npmjs.com/package/http-server)
 * [Electron](https://www.electronjs.org/)
+* 谷歌浏览器
 
 ## 测试
 ```
